@@ -1,0 +1,40 @@
+# Variable Fun
+
+# 5 multiplied by 6
+num1 = int(input("Enter 5: "))
+num2 = int(input("Enter 6: "))
+answer1 = num1 * num2
+print("The answer to your query is:", answer1)
+
+# 8 divided by 3
+num3 = int(input("Enter 8: "))
+num4 = int(input("Enter 3: "))
+answer2 = num3 / num4
+print("The answer to your query is:", answer2)
+
+# 8 divided by 3 without the remainder
+num5 = int(input("Enter 8: "))
+num6 = int(input("Enter 3: "))
+answer3 = num5 // num6
+print("The answer to your query is:", answer3)
+
+# 8 modulo 3
+num7 = int(input("Enter 8: "))
+num8 = int(input("Enter 3: "))
+answer4 = num7 % num8
+print("The answer to your query is:", answer4)
+
+# 4200000 add 23090
+num9 = int(input("Enter 4200000: "))
+num10 = int(input("Enter 23090: "))
+answer5 = num9 + num10
+print("The answer to your query is:", answer5)
+
+# 4200000 subtract 7633
+num11 = int(input("Enter 4200000: "))
+num12 = int(input("Enter 7633: "))
+answer6 = num11 - num12
+print("The answer to your query is:", answer6)
+
+print("Christopher Maldonado")
+
